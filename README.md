@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" /></div>  
-<div align="center"><img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev"/>  
+<div align="center"><img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="200"/>  
 </div>
