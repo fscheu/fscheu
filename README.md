@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fscheu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fscheu&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 ## Todoist Stats
 
@@ -61,7 +62,9 @@ Here are some ideas to get you started:
 ⏳  Longest streak is 138 days
 <!-- TODO-IST:END -->
 
+  </div>
 
-<div align="center" width="50%"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" /></div>  
-<div align="center" width="50%"><img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="300"/>  
+<div align="center" width="100%">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" />
+  <img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="300"/>  
 </div>
