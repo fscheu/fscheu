@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 <!-- TODO-IST:END -->
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" /></div>  
-<div align="center"><img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="300"/>  
+<div align="center" width="50%"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" /></div>  
+<div align="center" width="50%"><img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="300"/>  
 </div>
