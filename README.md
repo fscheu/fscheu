@@ -1,18 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 I'm a Software Engineer. I've been working as a Project Manager most of my life. Recently I rediscovered my passion for coding and I'm learning python to become a Backend Developer.
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/fedes" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/devolvelabolsa" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://dev.to/fscheu" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>
 <br />
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
@@ -29,37 +16,28 @@ I'm a Software Engineer. I've been working as a Project Manager most of my life.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" />  
 </div>
-
-</td><td valign="top" width="33%">
-<!--
-**fscheu/fscheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Github Stats  
+<br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fscheu&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<a href="https://linkedin.com/in/fedes" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/devolvelabolsa" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>
 
-## Todoist Stats
 
+<div align="left" dir="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=fscheu&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" />
+</div>
+
+🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  37,686 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 9,244 tasks so far           
-⏳  Longest streak is 138 days
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-  </div>
 
 <div align="center" width="100%">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" />
