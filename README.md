@@ -33,9 +33,9 @@ I'm a Software Engineer. I've been working as a Project Manager most of my life.
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  38,520 Karma Points           
-🌸  Completed 10 tasks today           
-✅  Completed 9,506 tasks so far           
+🏆  38,552 Karma Points           
+🌸  Completed 11 tasks today           
+✅  Completed 9,518 tasks so far           
 ⏳  Longest streak is 138 days
 <!-- TODO-IST:END -->
 
