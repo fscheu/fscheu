@@ -31,14 +31,6 @@ I'm a Software Engineer. I've been working as a Project Manager most of my life.
   <img src="https://github-readme-stats.vercel.app/api?username=fscheu&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" />
 </div>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  41,037 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 10,226 tasks so far           
-⏳  Longest streak is 138 days
-<!-- TODO-IST:END -->
-
 <div align="center" width="100%">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=fscheu&cover_image=true&theme=default" width="300" />
   <img style="margin: 10px" src="https://github.com/fscheu/fscheu/blob/main/devcard.svg" alt="daily.dev" width="300"/>  
