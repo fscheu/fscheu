@@ -10,7 +10,7 @@ jobs:
     name: Update todoist stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: goncalossilva/todoist-readme@patch-1
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
